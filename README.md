@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAIC-Dev
+- 👋 Hi, I’m @MAIC
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Health app
